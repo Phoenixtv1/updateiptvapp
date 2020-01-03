@@ -28,7 +28,7 @@ The overlay layer holds:
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Video Caster</title>
+    <title>TyphoonCaster</title>
     <link rel="stylesheet" href="player.css"/>
     <script type="text/javascript"
             src="//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js">
